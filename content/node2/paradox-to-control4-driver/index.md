@@ -145,10 +145,10 @@ outline : [2, 6]
 - Control4主机(带双向通信串口)；
 - 编程软件Composer；
 - Control4 APP （安卓版下载）:
-  - [下载：control4-os2 v2.10.11.87.zip](/files/control4-os2_v2.10.11.87.zip)
-  - [下载：control4-os3 v323.49.0.18.zip](/files/control4-os3_v323.49.0.18.zip)
+  - 下载：[control4-os2 v2.10.11.87.zip](/files/control4-os2_v2.10.11.87.zip)
+  - 下载：[control4-os3 v323.49.0.18.zip](/files/control4-os3_v323.49.0.18.zip)
 - 枫叶驱动文件：
-  - [下载：ParadoxDriver.zip](/files/ParadoxDriver.zip)
+  - 下载：[ParadoxDriver.zip](/files/ParadoxDriver.zip)
   
 <!-- <FileList /> -->
 
