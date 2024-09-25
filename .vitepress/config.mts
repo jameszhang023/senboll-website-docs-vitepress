@@ -137,6 +137,10 @@ export default defineConfig({
     //   pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
     //   text: '在 GitHub 上编辑此页面'
     // },
+    editLink: {
+      pattern: 'https://github.com/jameszhang023/senboll-website-docs-vitepress/edit/master/:path',
+      text: '在 GitHub 上编辑此页面'
+    },
 
     lastUpdated: {
       text: '最后更新于',
