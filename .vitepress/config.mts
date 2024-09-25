@@ -113,7 +113,7 @@ export default defineConfig({
         collapsed: false,
         base: '/content/node9/',
         items: [
-          { text: '安防行业标准规范', link: 'standard1/' }
+          { text: '安防行业标准规范', link: 'standard/' }
         ]
       },
 
