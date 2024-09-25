@@ -1,0 +1,18 @@
+.VPFeature {
+    border: 1px solid #4656ba !important;
+}
+.custom-block.warning {
+    background-color: #f8514926 !important;
+    border: 1px solid #f8514966 !important;
+}
+.custom-block.tip {
+    background-color: #388bfd26 !important;
+    border: 1px solid #1f6feb !important;
+}
+.custom-block.info {
+    /* border-left-width: 4px; */
+    border-left-style: solid;
+    position: relative;
+    border-color: #0594cb;
+    display: block;
+}
