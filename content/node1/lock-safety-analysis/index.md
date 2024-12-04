@@ -1,7 +1,7 @@
 ---
 title : "防盗锁安全性分析"
 hide: true
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 防盗锁安全性分析

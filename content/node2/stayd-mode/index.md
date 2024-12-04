@@ -1,6 +1,6 @@
 ---
 title : "高级功能 - StayD模式"
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 高级功能 - StayD模式

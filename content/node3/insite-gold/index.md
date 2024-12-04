@@ -1,6 +1,6 @@
 ---
 title : "手机APP(Insite Gold)使用说明"
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 简介

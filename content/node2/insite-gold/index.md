@@ -1,6 +1,6 @@
 ---
 title : "安装设置 - 手机APP(Insite Gold)"
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 安装设置 - 手机APP(Insite Gold)

@@ -2,7 +2,7 @@
 title: 文档中心
 linktitle: 
 description: 中国10大安防品牌枫叶安防的文档帮助系统，提供安装者和用户的在线帮助文档，实时更新。
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 系统介绍

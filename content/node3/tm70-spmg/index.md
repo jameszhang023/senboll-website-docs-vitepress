@@ -1,6 +1,6 @@
 ---
 title : "键盘(TM70-SPMG)说明书"
-outline : [2, 6]
+outline : [2, 3]
 ---
 
 # 简介
