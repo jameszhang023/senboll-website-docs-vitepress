@@ -16,7 +16,7 @@ outline : [2, 3]
 视频介绍较简单，仅供参考，请以文档为准。  
 
  <video controls="controls">
-    <source src="https://cdn.senboll.com/media/video/tm50-touchscreen-label-manage-teching-video-cover-picture.mp4" type="video/mp4">
+    <source src="https://senbollwebsite.oss-cn-shenzhen.aliyuncs.com/media/video/tm50-touchscreen-label-manage-teching-video-cover-picture.mp4" type="video/mp4">
  </video>
 
 

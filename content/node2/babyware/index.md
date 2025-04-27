@@ -20,7 +20,7 @@ outline : [2, 3]
 视频介绍较简单，仅供参考，请以文档为准。  
 
  <video controls="controls">
-    <source src="https://cdn.senboll.com/media/video/babyware-teaching-video-cover-picture.mp4" type="video/mp4">
+    <source src="https://senbollwebsite.oss-cn-shenzhen.aliyuncs.com/media/video/babyware-teaching-video-cover-picture.mp4" type="video/mp4">
  </video>
 
 ## 安装软件
