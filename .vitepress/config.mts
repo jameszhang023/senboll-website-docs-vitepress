@@ -49,7 +49,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: 'https://www.senboll.com', target: '_self' },
       { text: '文档中心', link: '/content/', target: '_self' },
-      { text: '案例相册', link: 'https://photos.senboll.com/', target: '_self' }
+      { text: '案例相册', link: 'http://photos.senboll.com:81', target: '_self' }
       // { text: 'Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
     ],

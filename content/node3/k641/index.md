@@ -132,16 +132,16 @@ k641操作键盘:
 
 | 故障主菜单 | 故障子菜单 |
 |---|---|
-|1System（系统故障）|1AC failure（交流电故障）2Battery trouble（后备电源故障）3Aux. current limit（辅助电源输出过载）4Bell current limit（警号输出接口过载）5Bell absent（警号未接）6ROM check error（ROM错误）7RAM check error（RAM错误）|
-|2Communicator（通讯故障）|1TLM1（电话线故障）2Fail to Com. 1（com1故障）3Fail to Com. 2（com2故障）4Fail to Com. 3（com3故障）5Fail to Com. 4（com4故障）6Fail to Com. PC（PC通信错误）|
-|3Module Trouble（模块故障）|1Module tamper（模块防拆故障）2Module ROM check error（模块ROM故障）3Module TLM trouble（模块拨号故障）4Module Fail to Com.（模块通信故障）5Printer trouble（打印机故障）6Module AC failure（模块交流电源故障）7Module battery failure（模块后备电源故障）8Module supply output（模块电源输出故障）|
-|4Network (Combus) Troubles（总线故障）|1Missing keypad（键盘离线）2Missing module（模块离线）3Missing voice module（语音模块离线）6General failure（一般总线故障）7Combus overload（总线过载）|
-|5Zone Tamper（防区防拆故障）|按5显示防拆故障的所有防区|
-|6Zone Low Battery（防区电池电量不足故障）|按6显示电池电量不足的所有防区|
-|7Zone Fault（防区故障）|按7显示火警回路防区故障|
-|8Clock Loss（时间丢失）|按8重新设置时间|
-|9GSM Troubles（GSM移动网故障）|1Missing GSM module（GSM模块掉线）2GSM RF jam supervision（移动网发生干扰故障）3No service（移动网无服务）5Fail to communicate with IP receiver 1（IP中心1通信失败）6Fail to communicate with IP receiver 2（IP中心2通信失败）7Fail to communicate with IP receiver 3（IP中心3通信失败）8Fail to communicate with IP receiver 4（IP中心14通信失败）9IP receiver unregistered（IP中心注册失败）|
-|10IP Troubles（以太网故障）|1Missing IP module（网络模块掉线）2No service（无以太网）3Fail to communicate with IP receiver 1（IP中心1通信失败）4Fail to communicate with IP receiver 2（IP中心2通信失败）5Fail to communicate with IP receiver 3（IP中心3通信失败）6Fail to communicate with IP receiver 4（IP中心14通信失败）7IP receiver unregistered（IP中心注册失败）|
+|【1】System（系统故障）|【1】AC failure（交流电故障）<br>【2】Battery trouble（后备电源故障）<br>【3】Aux. current limit（辅助电源输出过载）<br>【4】Bell current limit（警号输出接口过载）<br>【5】Bell absent（警号未接）<br>【6】ROM check error（ROM错误）<br>【7】RAM check error（RAM错误）|
+|【1】Communicator（通讯故障）|【1】TLM1（电话线故障）<br>【2】Fail to Com1（com1故障）<br>【3】Fail to Com2（com2故障）<br>【4】Fail to Com3（com3故障）<br>【5】Fail to Com4（com4故障）<br>【6】Fail to Com. PC（PC通信错误）|
+|【1】Module Trouble（模块故障）|【1】Module tamper（模块防拆故障）<br>【2】Module ROM check error（模块ROM故障）<br>【3】Module TLM trouble（模块拨号故障）<br>【4】Module Fail to Com.（模块通信故障）<br>【5】Printer trouble（打印机故障）<br>【6】Module AC failure（模块交流电源故障）<br>【7】Module battery failure（模块后备电源故障）<br>【8】Module supply output（模块电源输出故障）|
+|【1】Network (Combus) Troubles（总线故障）|【1】Missing keypad（键盘离线）<br>【2】Missing module（模块离线）<br>【3】Missing voice module（语音模块离线）<br>【6】General failure（一般总线故障）<br>【7】Combus overload（总线过载）|
+|【1】Zone Tamper（防区防拆故障）|按5显示防拆故障的所有防区|
+|【1】Zone Low Battery（防区电池电量不足故障）|按6显示电池电量不足的所有防区|
+|【1】Zone Fault（防区故障）|按7显示火警回路防区故障|
+|【1】Clock Loss（时间丢失）|按8重新设置时间|
+|【1】GSM Troubles（GSM移动网故障）|【1】Missing GSM module（GSM模块掉线）<br>【2】GSM RF jam supervision（移动网发生干扰故障）<br>【3】No service（移动网无服务）<br>【5】Fail to communicate with IP receiver 1（IP中心1通信失败）<br>【6】Fail to communicate with IP receiver 2（IP中心2通信失败）<br>【7】Fail to communicate with IP receiver 3（IP中心3通信失败）<br>【8】Fail to communicate with IP receiver 4（IP中心14通信失败）<br>【9】IP receiver unregistered（IP中心注册失败）|
+|【1】0IP Troubles（以太网故障）|【1】Missing IP module（网络模块掉线）<br>【2】No service（无以太网）<br>【3】Fail to communicate with IP receiver 1（IP中心1通信失败）<br>【4】Fail to communicate with IP receiver 2（IP中心2通信失败）<br>【5】Fail to communicate with IP receiver 3（IP中心3通信失败）<br>【6】Fail to communicate with IP receiver 4（IP中心14通信失败）<br>【7】IP receiver unregistered（IP中心注册失败）|
 
 ### 查看报警记录
 
